@@ -1,2 +1,2 @@
-# Project-1
-LAMP STACK  IMPLEMENTATION
+# DAREY.IO DEVOPS PROJECTS 
+This is Where I keep all darey.io DevOps Project
